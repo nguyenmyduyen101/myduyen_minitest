@@ -35,12 +35,12 @@ export const PYTHON_RESULTS = [
   {
     firstName: "SOKUNTHEA",
     lastName: "POEUN",
-    score: 25,
+    score: 45,
   },
   {
     firstName: "NY",
     lastName: "MA",
-    score: 78,
+    score: 35,
   },
   {
     firstName: "SREYMOM	",
